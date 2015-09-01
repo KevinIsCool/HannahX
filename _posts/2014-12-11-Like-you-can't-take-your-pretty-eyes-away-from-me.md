@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ntdll.dll
+title: Like you can't take your pretty eyes away from me
 category: tech
 tags:
 - Windows

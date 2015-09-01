@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 只恨太匆匆
+title: I wanna believe in everything that you say
 logo: http://www.llokt.com/Kevin/images/201412/Lavandula.jpg
 category: Life
 tags: 

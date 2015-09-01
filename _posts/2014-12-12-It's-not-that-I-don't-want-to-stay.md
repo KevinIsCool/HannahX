@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Architecture
+title: It's not that I don't want to stay
 category: tech
 tags:
 - Windows
