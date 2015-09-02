@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: www.hannahlavender.com
+url: http://www.hannahlavender.com
 author: Kevin
 lsi: false
 pygments: true
