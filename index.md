@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Welcome
 layout: page
 ---
 
